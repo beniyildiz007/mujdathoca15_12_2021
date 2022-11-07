@@ -2,4 +2,4 @@
 
 ## Öğrendiklerimiz:
   * C#
-  * 
+  * HTML
