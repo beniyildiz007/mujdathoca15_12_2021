@@ -1,1 +1,3 @@
-# BilgeAdam Yıldız Yazılımcı Yetiştirme Programı
+# BilgeAdam Fullstack Yıldız Yazılımcı Yetiştirme Programı
+
+## Öğrendiklerimiz:
