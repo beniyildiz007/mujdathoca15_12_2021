@@ -3,3 +3,4 @@
 ## Öğrendiklerimiz:
   * C#
   * HTML
+  * CSS
