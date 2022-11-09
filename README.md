@@ -4,4 +4,5 @@
   * C#
   * HTML
   * CSS
-  * 
+  * JavaScript
+  * MVC5
