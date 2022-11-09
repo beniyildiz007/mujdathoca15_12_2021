@@ -4,3 +4,4 @@
   * C#
   * HTML
   * CSS
+  * JavaScript
