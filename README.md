@@ -4,5 +4,6 @@
   * C#
   * HTML
   * CSS
+  * Bootstrap
   * JavaScript
   * MVC5
