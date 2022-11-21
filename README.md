@@ -11,6 +11,6 @@
 MVC5
 MVC5
 vMVC5
-vs
+vss
 s
 v
