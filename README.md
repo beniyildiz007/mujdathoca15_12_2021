@@ -7,11 +7,3 @@
   * Bootstrap
   * JavaScript
   * MVC5
-  
-  p
-s
-s
-s
-s
-s
-s
